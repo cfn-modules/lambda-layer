@@ -1,0 +1,16 @@
+{
+  "name": "@cfn-modules/lambda-layer",
+  "version": "1.0.0",
+  "description": "AWS Lambda layer for the use with Lambda function.",
+  "author": "Andreas Wittig <andreas@widdix.de>",
+  "license": "Apache-2.0",
+  "keywords": ["cfn-modules", "cfn-modules:ExposeArn"],
+  "homepage": "https://github.com/cfn-modules",
+  "bugs": {
+    "url": "https://github.com/cfn-modules/lambda-layer/issues"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/cfn-modules/lambda-layer.git"
+  }
+}
